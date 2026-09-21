@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/logo-200.png" alt="MAAVA logo" width="96" />
-
 <img src="./assets/banner.svg" alt="MAAVA Community banner" width="100%" />
 
 <br/>
